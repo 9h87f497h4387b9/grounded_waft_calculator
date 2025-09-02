@@ -1,4 +1,5 @@
 import path from 'path';
+import 'index.css';
 import { defineConfig, loadEnv } from 'vite';
 
 export default defineConfig(({ mode }) => {
