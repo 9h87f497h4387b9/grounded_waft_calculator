@@ -1,0 +1,5 @@
+{
+  "name": "Grounded Waft Emitter Calculator",
+  "description": "An application to calculate all possible raid outcomes from the Waft Emitter in the game Grounded. Users can select a creature faction, choose parts to burn, and see a detailed breakdown of potential raid compositions, including probability, science yield, and leftover rage.",
+  "requestFramePermissions": []
+}
